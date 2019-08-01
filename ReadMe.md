@@ -1,4 +1,4 @@
-# Restaurant Invesmtent Recommendation: Italian v Sushi
+# Restaurant Investment Recommendation: Italian v Sushi
 
 Please read the report [here.](https://drive.google.com/file/d/1gRSKhPBJJVQYE6LCJfMaXC6jrgJeNNbT/view?usp=sharing)
 Presentation version of the report [here.](https://drive.google.com/file/d/1X-sgg38l2pXOJZdevQRRq6wrR9zKn6oo/view?usp=sharing)
